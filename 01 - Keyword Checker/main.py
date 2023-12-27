@@ -2,7 +2,7 @@
 Keyword Counter and Duplicate Checker
 """
 
-# Import
+# Imports
 import tkinter as tk
 from tkinter import messagebox
 
